@@ -2,7 +2,6 @@ import React from "react";
 import "styles/global.scss";
 import Navbar from "components/Navbar";
 import Footer from "components/Footer";
-import "util/analytics.js";
 
 function MyApp({Component, pageProps}) {
     return (
